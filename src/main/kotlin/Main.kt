@@ -10,13 +10,13 @@ fun main(args: Array<String>) {
     var studentNo: Long = 798314467L
     println(studentNo)
 
+
+    val weightInKg = 60
     val kg = 60
-    val pounds = kg * 2.2046
-    println("Pounds($pounds) => kg($kg)")
+    println("(weightInKg) => (60kg)")
 
-    var rwandan: Boolean = false
-    println(rwandan)
-
+    var citizenKenyan: Boolean = true
+    println(citizenKenyan)
 
 
 
